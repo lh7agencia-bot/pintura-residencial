@@ -1,0 +1,6 @@
+{
+  "name": "Pinturas Prediais E Residênciais Régis Gross",
+  "description": "Pintor profissional em Rio Grande - RS. Pinturas prediais, residenciais, fachadas e acabamentos de alto padrão. Pincelada que muda tudo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
